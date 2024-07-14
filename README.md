@@ -46,5 +46,3 @@ cmd +  shift + L - to change multiple lines together in vs code
 shift + option up/down - to duplicate rows upwards/downwards 
 
 In case of any queries, feel free to contact me at aarushnarang02@gmail.com. Happy learning!
-
-#javascript
