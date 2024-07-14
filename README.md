@@ -40,6 +40,10 @@ module.exports = {
 //END
 
 4. The source folder with all the JS code is available in the github repository.
+5. If you are using macos. These two shortcuts will save a lot of your time -
+   
+cmd +  shift + L - to change multiple lines together in vs code
+shift + option up/down - to duplicate rows upwards/downwards 
 
 In case of any queries, feel free to contact me at aarushnarang02@gmail.com. Happy learning!
 
